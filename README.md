@@ -1,6 +1,6 @@
 
 
-### ⚡ I'm Yukesh Kumar, an engineer who solves problems with a bit of code . Hit me up for music and sports , I'm pretty sure you'd impressed on my passion towards 'em as well !
+### ⚡ I'm Yukesh Kumar, an engineer who solves problems with a bit of code . Hit me up for music and sports , I'm pretty sure you'd impressed about my passion towards 'em as well !
  
 # 💼 I Chose to work for:
 ## Bytedance - Software Engineer II(Financial Engineering)
